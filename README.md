@@ -6,6 +6,12 @@ I work on practical cloud and DevOps engineering: AWS infrastructure, container 
 
 > Public-safe profile: I do not publish client names, internal repositories, production URLs, credentials, private screenshots, or organization-owned source code.
 
+## Portfolio
+
+- Portfolio site: https://saurabhdindokar.github.io/
+- Case studies: AWS migration, EKS stabilization, ECS modernization, deployment automation, DR, and operations handover
+- POC roadmap: Kubernetes, Jenkins, ECS/Fargate, CloudFormation, Terraform, SSM, Nginx, systemd, and CloudWatch
+
 ## Focus Areas
 
 - AWS cloud infrastructure and migration planning
@@ -52,10 +58,10 @@ I work on practical cloud and DevOps engineering: AWS infrastructure, container 
 - Terraform-based enterprise application deployment
 - Cloud operations handover template pack
 
-## Portfolio
-
-Portfolio site: https://saurabhdindokar.github.io/
-
 ## Certification
 
 AWS Certified Solutions Architect - Associate
+
+## Current Goal
+
+Building a public-safe DevOps portfolio with real architecture patterns, dummy labs, clean documentation, and no organization-owned code.
