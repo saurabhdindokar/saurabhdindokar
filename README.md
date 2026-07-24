@@ -52,7 +52,10 @@ I work on practical cloud and DevOps engineering: AWS infrastructure, container 
 - Terraform-based enterprise application deployment
 - Cloud operations handover template pack
 
+## Portfolio
+
+Portfolio site: https://saurabhdindokar.github.io/
+
 ## Certification
 
 AWS Certified Solutions Architect - Associate
-
